@@ -248,7 +248,7 @@ export default function HomeLayout() {
                     <span className="sr-only">Workflow</span>
                     <svg
                       id="Capa_1"
-                      enable-background="new 0 0 512 512"
+                      enableBackground="new 0 0 512 512"
                       className="h-8 w-auto"
                       height="512"
                       viewBox="0 0 512 512"
@@ -369,7 +369,7 @@ export default function HomeLayout() {
                   <span className="sr-only">Guy friday</span>
                   <svg
                     id="Capa_1"
-                    enable-background="new 0 0 512 512"
+                    enableBackground="new 0 0 512 512"
                     className="h-8 w-auto"
                     height="512"
                     viewBox="0 0 512 512"
